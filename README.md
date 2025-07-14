@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Impact of Digitalization on Entrepreneurship</h1>
-    <iframe title="Capstone 2" width="600" height="373.5" src="[https://app.powerbi.com/view?r=eyJrIjoiMjQ1Ym...](https://app.powerbi.com/view?r=eyJrIjoiZGVjOGU3MTAtZjYzNS00NDBkLWEwNmYtMjVmNjYyZDFiNGVkIiwidCI6IjUzN2MyYmUxLWZjZDQtNDVhOS04M2IzLTY2NTNlYWNjNTA3MCIsImMiOjEwfQ%3D%3D")" frameborder="0" allowFullScreen="true"></iframe>
+    <<iframe title="Capstone 2 Dashboard_Analyzing_the_impact_of_digitalization_on_entrepreneurship" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a0abe0cf-1d30-4cb4-a7fb-d3c53cda0a66&autoAuth=true&ctid=e4b72fad-e452-4c70-b8ac-c98189451c33" frameborder="0" allowFullScreen="true"></iframe>
 </body>
 </html>
