@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Impact of Digitalization on Entrepreneurship</h1>
+    https://shiyaan.github.io/Data_Analytics_Projects/
 Research Summary: Impact of Digitalization on Global Entrepreneurship
 Overview
 This study investigates how digitalization affects entrepreneurship worldwide using machine learning techniques, analyzing data from 123 countries between 2000-2023.
