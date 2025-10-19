@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Impact of Digitalization on Entrepreneurship</h1>
-    <<iframe title=Research Summary: Impact of Digitalization on Global Entrepreneurship
+Research Summary: Impact of Digitalization on Global Entrepreneurship
 Overview
 This study investigates how digitalization affects entrepreneurship worldwide using machine learning techniques, analyzing data from 123 countries between 2000-2023.
 Key Objectives
@@ -42,6 +42,6 @@ Supporting Evidence: Canonical Correlation Analysis showed strong relationships 
 Implications
 Policymakers should prioritize investment in digital infrastructure and financial access to foster entrepreneurship. The research includes an interactive Power BI dashboard for practical application.
 Limitations
-Data inconsistency across countries and inability to capture qualitative factors like cultural attitudes toward entrepreneurship.></iframe>
+Data inconsistency across countries and inability to capture qualitative factors like cultural attitudes toward entrepreneurship.
 </body>
 </html>
